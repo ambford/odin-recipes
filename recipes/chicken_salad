@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Copycat Southwest Chicken Salad</title>
+</head>
+<body>
+    <h1>Copycat Southwest Chicken Salad</h1>   
+    <img src="./salad.jpg" alt="Copycat Southwest Chicken Salad"/> 
+    
+    <h3>Copycat Southwest Chicken Salad</h3>
+    <p>Eat this healthy chicken salad and enjoy a delicious meal with your family</p>
+
+    <h3>Ingredients</h3>
+    <ul>
+        <li>1/3 cup chopped red onion</li>
+        <li>1/4 cup pickled jalapeno slices, chopped</li>
+        <li>1/4 cup coleslaw salad dressing</li>
+        <li>1 tablespoon juice from pickled jalapeno slices</li>
+        <li>1 tablespoon lime juice</li>
+        <li>2 boneless skinless chicken breast halves (6 ounces each)</li>
+        <li>1/4 cup frozen corn</ul>
+        <li>3 cups chopped romaine</li>
+        <li>1/4 cup chopped sweet red pepper</li>
+        <li>1/4 cup chopped seeded tomatoes</li>
+        <li>1/4 cup canned black beans, rinsed and drained</li>    
+        <li>1/2 cup shredded cheddar cheese</li>
+        <li>1/2 cup tri-color tortilla strips</li>
+    </ul>
+
+    <h3>Steps</h3>
+    <ol>
+        <li>Place the first 5 ingredients in a jar with a tight-fitting lid; shake well. Refrigerate until serving.
+        </li>
+        <li>Place chicken on oiled grill rack. Grill, covered, over medium heat or broil 3 in. from heat until a 
+            thermometer reads 165°, 5-7 minutes on each side. Let stand 5 minutes before slicing. Meanwhile, prepare corn according to package directions.
+        </li>
+        <li>Divide romaine between 2 salad bowls. Arrange chicken over romaine; top with corn, red pepper, tomatoes and beans. Sprinkle with cheese and 
+            tortilla strips. Shake dressing again; drizzle over salads. Serve immediately.</li>
+    </ol>
+
+    <h3>Nutrition Facts</h3>
+    <p>1 salad: 557 calories, 26g fat (8g saturated fat), 132mg cholesterol, 826mg sodium, 33g carbohydrate (9g sugars, 4g fiber), 45g protein.</p>
+</body>
+</html>
