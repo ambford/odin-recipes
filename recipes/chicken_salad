@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1>Copycat Southwest Chicken Salad</h1>   
-    <img src="./salad.jpg" alt="Copycat Southwest Chicken Salad"/> 
+    <img src="../img/salad.jpg" alt="Copycat Southwest Chicken Salad"/> 
     
     <h3>Copycat Southwest Chicken Salad</h3>
     <p>Eat this healthy chicken salad and enjoy a delicious meal with your family</p>
